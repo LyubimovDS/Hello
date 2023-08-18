@@ -21,7 +21,7 @@
  <div>
   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/5968875.png" title="Jira" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/SQL.png" title="SQL" alt="Java" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/SoapUI.svg" title="SoapUI" alt="Java" width="80" height="40"/>&nbsp;
+  <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/SoapUI.png" title="SoapUI" alt="Java" width="80" height="40"/>&nbsp;
   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/jmeter_square.svg" title="jmeter" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/mokcoon.svg" title="mokcoon" alt="Java" width="80" height="40"/>&nbsp;
    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/qase%20io_logo.png" title="qase.io" alt="Java" width="40" height="40"/>&nbsp;
