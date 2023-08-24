@@ -51,7 +51,7 @@
 
 ### Контактная информация
 
-Email : diman47477@gmail.com
+Email : dima.lyubimov.95@internet.ru
 
 ---
 
