@@ -51,6 +51,7 @@
 
 ### Контактная информация
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">](https://t.me/LubimovDS)
 Email : dima.lyubimov.95@internet.ru
 
 ---
