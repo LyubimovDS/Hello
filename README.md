@@ -16,7 +16,7 @@
 
 ---
 
-### То чем я владею : 
+### Инструменты: 
 
  <div>
   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/5968875.png" title="Jira" alt="Java" width="40" height="40"/>&nbsp;
