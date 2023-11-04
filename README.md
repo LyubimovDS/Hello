@@ -29,7 +29,9 @@
    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Miro.png" title="Miro" alt="Java" width="38" height="38"/>&nbsp;
    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/%D0%A1%D0%B8%D1%82%D0%B5%D1%87%D0%BA%D0%BE.png" title="Sitechco" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Figma.png" title="Figma" alt="Java" width="30" height="40"/>&nbsp;
-   
+   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Android.png" title="AndroinStudio" alt="Java" width="30" height="40"/>&nbsp;
+   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Android.png" title="AndroinStudio" alt="Java" width="30" height="40"/>&nbsp;
+  
 </div>
 
 ---
