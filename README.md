@@ -18,19 +18,19 @@
 <h2> Инструменты: </h2>
 
  <div>
-  <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/5968875.png" title="Jira" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/SoapUI.png" title="SoapUI" alt="Java" width="80" height="40"/>&nbsp;
-  <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/jmeter_square.svg" title="jmeter" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/mokcoon.svg" title="mokcoon" alt="Java" width="80" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/qase%20io_logo.png" title="qase.io" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/%D0%BF%D0%BE%D1%81%D1%82%D0%BC%D0%B0%D0%BD.png" title="Postman" alt="Java" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/5968875.png" title="Jira" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/SoapUI.png" title="SoapUI" alt="Java" width="80" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/jmeter_square.svg" title="jmeter" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/mokcoon.svg" title="mokcoon" alt="Java" width="80" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/qase%20io_logo.png" title="qase.io" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/%D0%BF%D0%BE%D1%81%D1%82%D0%BC%D0%B0%D0%BD.png" title="Postman" alt="Java" width="100" height="40"/>&nbsp;
     <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/PostgreSQL.png" title="PostgreSQL" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/DBeaver.png" title="DBeaver" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Miro.png" title="Miro" alt="Java" width="38" height="38"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/%D0%A1%D0%B8%D1%82%D0%B5%D1%87%D0%BA%D0%BE.png" title="Sitechco" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Figma.png" title="Figma" alt="Java" width="30" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Android.png" title="AndroinStudio" alt="Java" width="100" height="40"/>&nbsp;
-   <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Charles.jpeg" title="Charles" alt="Java" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/DBeaver.png" title="DBeaver" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Miro.png" title="Miro" alt="Java" width="38" height="38"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/%D0%A1%D0%B8%D1%82%D0%B5%D1%87%D0%BA%D0%BE.png" title="Sitechco" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Figma.png" title="Figma" alt="Java" width="30" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Android.png" title="AndroinStudio" alt="Java" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/LyubimovDS/Hello/blob/main/folder/icon/Charles.jpeg" title="Charles" alt="Java" width="100" height="40"/>&nbsp;
   
 </div>
 
