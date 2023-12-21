@@ -53,8 +53,7 @@
 
  [ссылка на проект](https://lily-crayon-bbc.notion.site/25a2b325c1ab4358a73ef2085be3eb9f?pvs=4)
 
- <h4> Проект №3 "Тестирование мобильного приложения "Skyeng" для изучения английского языка" </h4>
-
+<h4> Проект №3 "Тестирование мобильного приложения "Skyeng" для изучения английского языка" </h4>
 Что нужно было сделать :<br>
 1. Протестировать функциональность мобильного приложение Skyeng для изучения английского языка. 
 2. Укрепить навыки командной работы.
@@ -67,9 +66,13 @@
 
 <h2> Контактная информация </h2>
 
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">](https://t.me/LubimovDS) <br>
+<a  href="https://t.me/LubimovDS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">
+    <span style="">Telegram</span>
+</a><br>
 
- Email : dima.lyubimov.95@internet.ru
+
+ <dif>Email : dima.lyubimov.95@internet.ru</dif>
 
 ---
 
